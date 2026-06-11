@@ -24,3 +24,6 @@ def plotting(n, steps)
     m -= steps
     coordinates.append(m)
   return coordinates
+
+naive(n, steps)
+plotting(n, steps)
