@@ -1,0 +1,1 @@
+Following the chapters from Andrew French's book, with the intention of having a broad and structured base into scientific thinking which could be a guide to actually progress into stuff (rather than using disparate tutorials)
