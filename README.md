@@ -1,4 +1,7 @@
 # projectTantalus
-A very ambitious summer holiday goal with prescribed problem sets to do to gain a pretty strong proficiency in programming (mostly algorithmically to solve problems). 
+I will be exploring some projects, predominately focusing on graph theory/network science:
 
-Goal is to be able to solve open-ended problems (as the technical basis to solve problems I come up with myself).
+1. Modelling the spread of BSE/FMD within a graph
+2. Filtering tremors from noisy mouse readings dynamically
+3. A simple sudoku solver (completed)
+4. Graph to increase youth participation in clubs and societies
